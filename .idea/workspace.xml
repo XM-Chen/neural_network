@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="025ce2f0-7162-4b8c-9546-cec40ad7ad54" name="更改" comment="更改">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCGAN/demo3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DCGAN/demo3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCGAN/images1/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/DCGAN/images1/0.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +25,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "XM-Chen"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b5acc026-6cfc-4159-9f77-75557ae396e0" />
+        <option name="url" value="git@github.com:XM-Chen/neural_network.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -45,13 +62,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "cxmd",
-    "last_opened_file_path": "/home/cxmd/文档/git_files/neural_network",
+    "last_opened_file_path": "/home/cxmd/文档/git_files/PyTorch-GAN",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.fileTypes",
+    "settings.editor.selected.configurable": "Errors",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -88,7 +105,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-67fca87a943a-c986f194a52a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.259" />
+        <option value="bundled-python-sdk-7a29c1521ef0-c986f194a52a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.298" />
       </set>
     </attachedChunks>
   </component>
@@ -124,22 +141,20 @@
       <workItem from="1702119888140" duration="21000" />
       <workItem from="1702120694215" duration="97000" />
       <workItem from="1702120809624" duration="5643000" />
-      <workItem from="1702127610820" duration="2694000" />
+      <workItem from="1702127610820" duration="30236000" />
+      <workItem from="1702471345829" duration="277000" />
+      <workItem from="1702471643370" duration="582000" />
+      <workItem from="1702472451580" duration="575000" />
+      <workItem from="1702473044900" duration="60000" />
+      <workItem from="1702473217300" duration="147000" />
+      <workItem from="1702473788000" duration="1342000" />
+      <workItem from="1702516224593" duration="356000" />
+      <workItem from="1702518208950" duration="375000" />
+      <workItem from="1702518762852" duration="1341000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook:///home/cxmd/文档/git_files/neural_network/WGAN/demo3.ipynb</url>
-          <line>215</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
