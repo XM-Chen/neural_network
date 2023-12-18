@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="025ce2f0-7162-4b8c-9546-cec40ad7ad54" name="更改" comment="更改">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DCGAN/demo5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DCGAN/demo5.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WGAN/demo4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/WGAN/demo4.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +67,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;http.proxy&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -148,11 +150,28 @@
       <workItem from="1702516224593" duration="356000" />
       <workItem from="1702518208950" duration="375000" />
       <workItem from="1702518762852" duration="1341000" />
-      <workItem from="1702520197831" duration="1739000" />
+      <workItem from="1702520197831" duration="7927000" />
+      <workItem from="1702691581837" duration="24000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/cxmd/文档/git_files/neural_network/WGAN/demo2.ipynb</url>
+          <line>120</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/cxmd/文档/git_files/neural_network/WGAN/demo4.ipynb</url>
+          <line>166</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
