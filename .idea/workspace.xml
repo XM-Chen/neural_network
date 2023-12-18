@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="025ce2f0-7162-4b8c-9546-cec40ad7ad54" name="更改" comment="更改">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DCGAN/demo5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DCGAN/demo5.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAN/demo1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GAN/demo1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WGAN/demo2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/WGAN/demo2.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WGAN/demo4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/WGAN/demo4.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -152,6 +153,8 @@
       <workItem from="1702518762852" duration="1341000" />
       <workItem from="1702520197831" duration="7927000" />
       <workItem from="1702691581837" duration="24000" />
+      <workItem from="1702872165583" duration="772000" />
+      <workItem from="1702902904753" duration="4898000" />
     </task>
     <servers />
   </component>
@@ -162,14 +165,14 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook:///home/cxmd/文档/git_files/neural_network/WGAN/demo2.ipynb</url>
-          <line>120</line>
-          <option name="timeStamp" value="1" />
+          <url>notebook:///home/cxmd/文档/git_files/neural_network/WGAN/demo4.ipynb</url>
+          <line>170</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///home/cxmd/文档/git_files/neural_network/WGAN/demo4.ipynb</url>
-          <line>166</line>
-          <option name="timeStamp" value="4" />
+          <line>172</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
