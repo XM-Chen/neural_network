@@ -6,13 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="025ce2f0-7162-4b8c-9546-cec40ad7ad54" name="更改" comment="更改">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GAN/demo1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GAN/demo1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GAN/demo2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GAN/demo2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GAN/run1/Discriminator/events.out.tfevents.1702140422.cxmd.159363.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GAN/run1/Generator/events.out.tfevents.1702140420.cxmd.159363.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GAN/run1/events.out.tfevents.1702140423.cxmd.159363.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResNet/demo1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ResNet/demo1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WGAN/demo4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/WGAN/demo4.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,6 +155,7 @@
       <workItem from="1702992614332" duration="974000" />
       <workItem from="1702994185519" duration="8580000" />
       <workItem from="1703054311522" duration="7812000" />
+      <workItem from="1703151893633" duration="1138000" />
     </task>
     <servers />
   </component>
