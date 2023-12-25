@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="025ce2f0-7162-4b8c-9546-cec40ad7ad54" name="更改" comment="更改">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAN/demo2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GAN/demo2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRGAN/srgan_demo1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SRGAN/demo1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -55,11 +57,12 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.gen_lr_img.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;cxmd&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/cxmd/文档/git_files/PyTorch-GAN&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/cxmd/文档/git_files/SRGAN&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -102,7 +105,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-7a29c1521ef0-c986f194a52a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.298" />
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
       </set>
     </attachedChunks>
   </component>
@@ -155,7 +158,12 @@
       <workItem from="1702992614332" duration="974000" />
       <workItem from="1702994185519" duration="8580000" />
       <workItem from="1703054311522" duration="7812000" />
-      <workItem from="1703151893633" duration="1138000" />
+      <workItem from="1703151893633" duration="18015000" />
+      <workItem from="1703382954245" duration="37000" />
+      <workItem from="1703383012722" duration="232000" />
+      <workItem from="1703383382440" duration="194000" />
+      <workItem from="1703388903414" duration="883000" />
+      <workItem from="1703499114844" duration="630000" />
     </task>
     <servers />
   </component>
@@ -177,5 +185,8 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/neural_network$gen_lr_img.coverage" NAME="gen_lr_img 覆盖结果" MODIFIED="1703172021528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SRGAN" />
   </component>
 </project>
